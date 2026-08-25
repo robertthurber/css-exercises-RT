@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+  background-color: lightcoral;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#numTwo {
+  color: blue;
+  font-size: 36px;
+}
+
+.biggerText {
+  font-size: 24px;
+}
+
+#fourthEle {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: 800;
+}
